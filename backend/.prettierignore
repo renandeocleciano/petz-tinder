@@ -1,0 +1,6 @@
+dist
+coverage
+src/database/migrations
+package-lock.json
+doc
+initial_prompt.md
